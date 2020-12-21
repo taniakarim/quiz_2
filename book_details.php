@@ -21,7 +21,7 @@
 					</tr>
 					<tr>
 						<td>Book Image:</td>
-						<td><img src="<?php echo $book[0]["bookimage"];?>" width="60" height="60"></td>
+						<td><img src="<?php echo $book[0]["image"];?>" width="60" height="60"></td>
 					</tr>
 				</table>
 	      </center>
